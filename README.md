@@ -22,16 +22,26 @@ com.example.myapp.interfaces - Contains all interfaces
 2. Domain type
 
  intro
+ 
     - IntroActivity
+    
  login
+ 
     - LoginActivity
+    
     - SignUpActivity
  main
+ 
     - MainActivity
+    
     - Tab1Fragment
+    
     - Tab2Fragment
+    
  setting
+ 
     - SettingActivity
+    
     - SettingFragment
     
 
