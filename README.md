@@ -1,7 +1,7 @@
 # Package-Structure
 
 
-1. Layer type
+# 1. Layer type
 
 com.example.myapp.activities - Contains all activities
 
@@ -19,7 +19,7 @@ com.example.myapp.interfaces - Contains all interfaces
 
 
 
-2. Domain type
+# 2. Domain type
 
  intro
  
