@@ -2,6 +2,7 @@
 
 
 1. Layer type
+
 com.example.myapp.activities - Contains all activities
 
 com.example.myapp.adapters - Contains all custom adapters
@@ -19,6 +20,7 @@ com.example.myapp.interfaces - Contains all interfaces
 
 
 2. Domain type
+
  intro
     - IntroActivity
  login
